@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">U2Tema1_Moviles</string>
+    <string name="dominio">https://ungentlemanly-books.000webhostapp.com</string>
+    <string name="login">/login.php?Usuario=</string>
+    <string name="insertarcliente">/insertarcliente.php?</string>
+    <string name="vercliente">/clientes.php</string>
+    <string name="insertarclientepost">/Insertarclientespost.php</string>
+    <string name="actualizarclientepost">update</string>
+</resources>
